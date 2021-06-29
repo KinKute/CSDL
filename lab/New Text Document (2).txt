@@ -1,0 +1,18 @@
+cho CSDL 
+- xác định khóa chính, tân từ của từng lược đồ quan hệ
+- biểu diễn sơ đồ quan hệ của CSDL (chỉ khá chính, khóa ngoại)
+- vẽ lược đồ thực thể - kết hợp (ERD) cho CSDL
+- phát biểu truy vấn lồng bằng đại số quan hệ và SQL (chọn, lồng, gom nhóm, min - max)
+- cho 1 số RBTV (liên thuộc tính - liên quan hệ, thuộc tính tổng hợp) -> phát biểu hình thức và lập bảng tầm ảnh hưởng
+
+
+lý thuyết thiết kế CSDL. Cho lược đồ quan hệ <R
+cho 1 lược đồ quan hệ <R, F>, thực hiện
+- tìm tất cả các khóa của 1 lược đồ quan hệ
+- xác định dạng chuẩn ( cao nhất có thể) của lược đồ quan hệ
+- xét 1 phân rã của R
+  + Phân rã có nỗi không mất thông tin (hoặc bảo toàn thông tin)? Tại sao
+  + Phân rã có giữ lại phụ thuộc (hoặc bảo toàn phụ thuộc)? tại sao
+  + cho biết dạng chuẩn của các lược đồ quan hệ trong phân rã
+
+
